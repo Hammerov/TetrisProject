@@ -6,6 +6,7 @@ import random
 shapes: S, Z, I, O, J, L, T
 represented in order by 0 - 6
 """
+#test1
 
 pygame.font.init()
 
